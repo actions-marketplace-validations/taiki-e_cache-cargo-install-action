@@ -10,6 +10,8 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 
 ## [Unreleased]
 
+## [3.0.8] - 2026-08-02
+
 - Update `actions/cache` to 6.1.0.
 
 ## [3.0.7] - 2026-05-02
@@ -132,7 +134,8 @@ Note: In this file, do not use the hard wrap in the middle of a sentence for com
 
 Initial release
 
-[Unreleased]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.7...HEAD
+[Unreleased]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.8...HEAD
+[3.0.8]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.7...v3.0.8
 [3.0.7]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.6...v3.0.7
 [3.0.6]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.5...v3.0.6
 [3.0.5]: https://github.com/taiki-e/cache-cargo-install-action/compare/v3.0.4...v3.0.5
